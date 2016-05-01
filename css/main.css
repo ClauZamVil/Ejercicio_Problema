@@ -1,0 +1,15 @@
+/* Inserta tu código aqui */
+
+.na li{
+	margin: 5px;
+}
+
+.linea{
+	vertical-align: middle;
+	padding-top: 10px;
+}
+
+.cuadro li{
+	font-size: 13px;
+	color: black;
+}

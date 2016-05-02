@@ -18,7 +18,8 @@
 	padding-top: 30px;
 }
 
-.img1{
+.img_responsive{
 	width: 100%;
+	height: auto;
 }
 
